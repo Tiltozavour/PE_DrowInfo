@@ -1,12 +1,8 @@
-# PE_DrowInfo
+# Морвенна Тень-Ворона (Morwenna Raven-Shade)
 
 
 <details>
-  <summary><h2>  </h2></summary>
-
-
-<details>
-  <summary>История</summary>
+  <summary><h2> История<  </h2></summary>
 
 1. Детство в Нарвоггахе
 
@@ -48,11 +44,3 @@
   </details> 
 
 
-<details>
-  <summary>Referrences</summary>
-
-
-  </details> 
-
-
-  </details> 
