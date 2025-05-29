@@ -41,7 +41,7 @@
   
   <details>
   <summary><h2> Навыки (Skills) </h2></summary>
-
+  
 - Acrobatics (Акробатика): +6 (Dex +3, Prof +3)
 - Athletics (Атлетика): +5 (Str +2, Prof +3)
 - Deception (Обман): +3 (Cha +0, Prof +3)
