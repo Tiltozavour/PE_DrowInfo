@@ -43,7 +43,17 @@
 Дистанция: 60 футов
 Цель: 1 существо
 Эффект: 1d6 ментального урона (Критический успех: цель ослаблена 1 на 1 ход).
-ОГраничение: Кидается сопротивление по Воле
+Ограничение: Кидается сопротивление по Воле
+```
+
+- **[Wash Your Luck - Удача](https://2e.aonprd.com/Spells.aspx?ID=1031)**
+
+```
+Действие: вжух вжух ручками
+Дистанция: 0 (на себя)
+Цель: ты сам
+Эффект: 
+Ограничение: КД 10 минут
 ```
     
 
@@ -82,15 +92,12 @@
 
 Заклинания в день: 2 заклинания 1-го ранга.
 
-Было
-```
+**Было**\
 - Cantrips: [Daze](https://2e.aonprd.com/Spells.aspx?ID=1482), [Guidance](https://2e.aonprd.com/Spells.aspx?ID=1549), [Infectious Enthusiasm](https://2e.aonprd.com/Spells.aspx?ID=932), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Needle Darts](https://2e.aonprd.com/Spells.aspx?ID=1375), [Read Aura](https://2e.aonprd.com/Spells.aspx?ID=1646), [Sigil](https://2e.aonprd.com/Spells.aspx?ID=1673), [Telekinetic Projectile](https://2e.aonprd.com/Spells.aspx?ID=1718), [Wash Your Luck](https://2e.aonprd.com/Spells.aspx?ID=1031).
-```
 
-Стало
-```
+**Стало**\
+- Cantrips: [Daze](https://2e.aonprd.com/Spells.aspx?ID=1482), [Needle Darts](https://2e.aonprd.com/Spells.aspx?ID=1375), [Wash Your Luck](https://2e.aonprd.com/Spells.aspx?ID=1031).
 
-```
 
 - 
 - 1-й уровень заклинания: Bless, Command, Déjà Vu, Grim Tendrils, Pet Cache.
