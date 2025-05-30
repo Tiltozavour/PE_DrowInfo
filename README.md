@@ -73,7 +73,7 @@
   </details> 
 
     <details>
-  <summary>От класса/summary>
+  <summary> От класса </summary>
   
 **Класс: Ведьма (Witch)**\
 **Покровитель (Patron):**\
@@ -81,7 +81,7 @@
 
 Заклинания в день: 2 заклинания 1-го ранга.
 
-- Cantrips: Daze, Guidance, Infectious Enthusiasm, Light, Needle Darts, Read Aura, Sigil, Telekinetic Projectile, Wash Your Luck.
+- Cantrips: [Daze](https://2e.aonprd.com/Spells.aspx?ID=1482), Guidance, Infectious Enthusiasm, Light, Needle Darts, Read Aura, Sigil, Telekinetic Projectile, Wash Your Luck.
 - 1-й уровень заклинания: Bless, Command, Déjà Vu, Grim Tendrils, Pet Cache.
 
 Фамилиар (Familiar): Phase Familiar (Может телепортироваться на короткие расстояния).
@@ -100,7 +100,7 @@ Agitate (1 Focus Point): Наносит ментальный урон и деб�
 
 
  <details>
-  <summary><h2>Инвентарь и экипировка </h2></summary>
+  <summary><h2> Инвентарь и экипировка </h2></summary>
    
 **Оружие:**
 - Sickle (Серп): 1d4 S (рубящий), Agile, Finesse, Trip.
